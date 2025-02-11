@@ -23,7 +23,7 @@ Token Launcher is a decentralized application (dApp) for launching, trading, and
 - **Global Navigation:**  
   A persistent header shows the logo (click to return home), a wallet connect button (displaying account and balance when connected), and a "Launch New Token" button (active only when a wallet is connected).
 
-**Compatible with all EVM chains that support Uniswap V4 (e.g., Ethereum, Base, etc.)**
+**Compatible with all EVM chains that support Uniswap V4 (e.g., Ethereum, Base, Unichain etc.)**
 
 For more information, contact me via [Telegram](https://t.me/degen4000)
 
